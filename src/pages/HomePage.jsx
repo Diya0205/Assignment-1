@@ -1,8 +1,10 @@
 import React from "react";
+import CarouselComponent from "../components/CarouselComponent";
 
 function HomePage() {
   return (
     <div>
+      <CarouselComponent />
       <div className="container mt-4">
         <h2>Featured Movies</h2>
         <div className="row">
