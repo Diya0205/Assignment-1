@@ -4,33 +4,19 @@ import { Carousel } from "react-bootstrap";
 function CarouselComponent() {
   const featuredItems = [
     {
-      src: "https://via.placeholder.com/800x400/FF5733/FFFFFF?text=Featured+Movie+1",
-      alt: "Featured Movie 1",
-      title: "Featured Movie 1",
+      src: "https://assets-in-gm.bmscdn.com/promotions/cms/creatives/1743585269448_foamibizathemedluxurypoolpartyweb.jpg",
     },
 
     {
-      src: "https://via.placeholder.com/800x400/33FF57/FFFFFF?text=Featured+Movie+2",
-      alt: "Featured Movie 2",
-      title: "Featured Movie 2",
+      src: "https://assets-in-gm.bmscdn.com/promotions/cms/creatives/1743510058398_webshowcase1240x300.jpg",
     },
 
     {
-      src: "https://via.placeholder.com/800x400/3357FF/FFFFFF?text=Featured+Event+1",
-      alt: "Featured Event 1",
-      title: "Featured Event 1",
+      src: "https://assets-in-gm.bmscdn.com/promotions/cms/creatives/1743155482801_madhuvanfestwebregions.jpg",
     },
 
     {
-      src: "https://via.placeholder.com/800x400/FF33A1/FFFFFF?text=Featured+Event+2",
-      alt: "Featured Event 2",
-      title: "Featured Event 2",
-    },
-
-    {
-      src: "https://via.placeholder.com/800x400/FF33A1/FFFFFF?text=Featured+Event+2",
-      alt: "Featured Event 2",
-      title: "Featured Event 2",
+      src: "https://assets-in-gm.bmscdn.com/promotions/cms/creatives/1726036566435_playcardnewweb.jpg",
     },
 
   ];
